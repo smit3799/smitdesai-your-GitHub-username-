@@ -53,8 +53,8 @@ I work on applying **machine learning to neurological disorders** like **Parkins
 
 ---
 
-## ✍️ Random Dev Quote
+## 💡 My Philosophy
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?quote=Always%20choose%20the%20harder%20right%20over%20the%20easier%20left.&author=Smit%20Desai&theme=tokyonight)
 
 ---
